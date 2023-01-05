@@ -1,4 +1,6 @@
-# Chapter 01 - What Is The Shell
+# Chapter 01 - What is the Shell
+
+![](https://media.tenor.com/AGXcUw61yFYAAAAC/gary.gif)
 
 This chapter is pretty light, it covers
 
